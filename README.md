@@ -33,12 +33,6 @@ El proyecto sigue la arquitectura **MVVM (Model-View-ViewModel)** para separar l
 * **Inyección de Dependencias:** (Si usaste Hilt o manual, menciónalo aquí, si no, omite esta línea).
 * **Corrutinas & Flow:** Para manejo de hilos y datos reactivos.
 
-## 📸 Capturas de Pantalla
-
-| Inicio | Registro de Comidas | Perfil |
-|:---:|:---:|:---:|
-| ![Home](ruta/a/tu/imagen_home.png) | ![Meals](ruta/a/tu/imagen_meals.png) | ![Profile](ruta/a/tu/imagen_profile.png) |
-*(Asegúrate de subir tus capturas a una carpeta en el repo y enlazarla aquí)*
 
 ## 🚀 Instalación y Configuración
 
